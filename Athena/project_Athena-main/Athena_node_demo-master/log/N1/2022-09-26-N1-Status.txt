@@ -1,0 +1,61 @@
+[
+{
+"timestamp":"2022-09-26 21:29:27",
+"Nodename":"N1",
+"clientIP":null,
+"url":null,
+"address":"192.168.35.72:4000",
+"cpuUsed":"0",
+"group":"Current"
+}
+,
+{
+"timestamp":"2022-09-26 21:29:28",
+"Nodename":"N1",
+"clientIP":null,
+"url":null,
+"address":"192.168.35.72:4000",
+"cpuUsed":"0.1470617165577773",
+"group":"Current"
+}
+,
+{
+"timestamp":"2022-09-26 21:29:29",
+"Nodename":"N1",
+"clientIP":null,
+"url":null,
+"address":"192.168.35.72:4000",
+"cpuUsed":"0.1281982997884327",
+"group":"Current"
+}
+,
+{
+"timestamp":"2022-09-26 21:29:30",
+"Nodename":"N1",
+"clientIP":null,
+"url":null,
+"address":"192.168.35.72:4000",
+"cpuUsed":"0.11362336163762098",
+"group":"Current"
+}
+,
+{
+"timestamp":"2022-09-26 21:29:31",
+"Nodename":"N1",
+"clientIP":null,
+"url":null,
+"address":"192.168.35.72:4000",
+"cpuUsed":"0.10201817370517728",
+"group":"Current"
+}
+,
+{
+"timestamp":"2022-09-26 21:29:32",
+"Nodename":"N1",
+"clientIP":null,
+"url":null,
+"address":"192.168.35.72:4000",
+"cpuUsed":"0.09257109261347722",
+"group":"Current"
+}
+]
